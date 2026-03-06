@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-family: 'Space Mono', 'Fira Code', 'Courier New', monospace !important;
+  }
+</style>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/neovim.svg" alt="NeoVim" />
   <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/typescript.svg" alt="TypeScript" />
@@ -50,6 +56,7 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFF" alt="TypeScript" />
@@ -64,6 +71,7 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 </p>
 
 ### 🌥 Cloud & Platform
+
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=000" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=FFF" alt="Azure" />
@@ -74,6 +82,7 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 </p>
 
 ### 🔧 Tools & Environment
+
 <p>
   <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=FFF" alt="NeoVim" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFF" alt="VS Code" />
@@ -84,6 +93,7 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 </p>
 
 ### ⚙️ Methodologies
+
 <p>
   <img src="https://img.shields.io/badge/Agile%2FScrum-0078D4?style=flat&logoColor=FFF" alt="Agile/Scrum" />
   <img src="https://img.shields.io/badge/TDD-C21325?style=flat&logo=jest&logoColor=FFF" alt="TDD" />
@@ -107,15 +117,20 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 ## 💻 Coding Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/Crayon77/">
-    <img src="https://leetcard.jacoblin.cool/Crayon77?theme=dark&border=0&font=Space%20Mono" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.codewars.com/users/Eddy_Dummy">
-    <img src="https://github.r2v.ch/codewars?user=Eddy_Dummy" alt="Codewars Stats" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/Crayon77/">
+          <img src="https://leetcard.jacoblin.cool/Crayon77?theme=dark&border=0&font=Space%20Mono" alt="LeetCode Stats" width="400" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.codewars.com/users/Eddy_Dummy">
+          <img src="https://github.r2v.ch/codewars?user=Eddy_Dummy&width=400" alt="Codewars Stats" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
