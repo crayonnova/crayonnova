@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://kaungminkhant.me">
+    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/website.svg" alt="Website" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kaung-min-khant/">
     <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/linkedin.svg" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
