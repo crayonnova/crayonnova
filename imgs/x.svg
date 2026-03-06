@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="#000000" class="bi bi-twitter-x" viewBox="0 0 32 32" id="Twitter-X--Streamline-Bootstrap" height="32" width="32">
+  <desc>
+    Twitter X Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path d="M25.2 1.5h4.908l-10.72 12.284L32 30.5h-9.874l-7.734 -10.14 -8.85 10.14H0.632l11.466 -13.14L0 1.5h10.126l6.99 9.266L25.202 1.5Zm-1.72 26.056h2.72L8.646 4.29H5.73z" stroke-width="2"></path>
+</svg>
