@@ -83,6 +83,9 @@ I'm a Senior Fullstack Engineer with a strong technical consulting background an
 <p>
   <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=FFF" alt="NeoVim" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFF" alt="VS Code" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=flat&logo=code&logoColor=FFF" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=FFF" alt="npm" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F8?style=flat&logo=webpack&logoColor=000" alt="Webpack" />
   <img src="https://img.shields.io/badge/WezTerm-000000?style=flat&logo=wezterm&logoColor=FFF" alt="WezTerm" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=FFF" alt="PowerShell 7" />
   <img src="https://img.shields.io/badge/Zsh-000000?style=flat&logo=zsh&logoColor=FFF" alt="Zsh" />
