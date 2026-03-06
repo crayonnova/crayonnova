@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="https://x.com/crayonnova7">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/twitter.svg" alt="X" />
+    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/x.svg" alt="X" />
   </a>
   <a href="https://github.com/crayonnova">
     <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/github.svg" alt="GitHub" />
