@@ -116,8 +116,8 @@ I'm a Senior Fullstack Engineer with a strong technical consulting background an
   <table>
     <tr>
       <td align="center">
-        <a href="https://leetcode.com/u/Crayon77/">
-          <img src="https://leetcard.jacoblin.cool/Crayon77?theme=dark&border=0&font=Space%20Mono" alt="LeetCode Stats" width="400" />
+        <a href="https://leetcode.com/u/crayonnova/">
+          <img src="https://leetcard.jacoblin.cool/crayonnova?theme=dark&border=0" alt="LeetCode Stats" width="400" />
         </a>
       </td>
       <td align="center">
