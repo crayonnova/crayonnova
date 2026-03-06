@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: 'Space Mono', 'Fira Code', 'Courier New', monospace !important;
-  }
-</style>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/neovim.svg" alt="NeoVim" />
   <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/typescript.svg" alt="TypeScript" />
