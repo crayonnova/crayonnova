@@ -11,18 +11,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kaung-min-khant/">
     <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/linkedin.svg" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/crayonnova7">
     <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/x.svg" alt="X" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/crayonnova">
     <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/github.svg" alt="GitHub" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:kaungminkhant.dev@gmail.com">
     <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/gmail.svg" alt="Email" />
-  </a>
-  <a href="https://kaungminkhant.me">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/link.svg" alt="Website" />
   </a>
 </p>
 
