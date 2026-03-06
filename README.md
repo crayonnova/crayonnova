@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/pi5-banner.jpg" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/pi5-banner.jpg" alt="Banner" />
 </p>
 
 <h1 align="center"><b>Kaung (Eddy) Min Khant</b></h1>
@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaung-min-khant/">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/linkedin.svg" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="https://x.com/crayonnova7">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/twitter.svg" alt="X" />
+    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/twitter.svg" alt="X" />
   </a>
   <a href="https://github.com/crayonnova">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/github.svg" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/github.svg" alt="GitHub" />
   </a>
   <a href="mailto:kaungminkhant.dev@gmail.com">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/gmail.svg" alt="Email" />
+    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/gmail.svg" alt="Email" />
   </a>
   <a href="https://kaungminkhant.me">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/link.svg" alt="Website" />
+    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/link.svg" alt="Website" />
   </a>
 </p>
 
