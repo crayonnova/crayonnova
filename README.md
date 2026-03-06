@@ -3,32 +3,31 @@
 </p>
 
 <h1 align="center"><b>Kaung (Eddy) Min Khant</b></h1>
-
 <p align="center">
   Fullstack Software Engineer (JS/TS/Cloud) | AI-Native | NixOS
 </p>
 
 <p align="center">
   <a href="https://kaungminkhant.me">
-    <img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=globe&logoColor=FFF" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=globe&logoColor=FFF" alt="Website" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kaung-min-khant/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=FFF" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/crayonnova7">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=FFF" alt="X" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=FFF" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/crayonnova">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFF" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="mailto:kaungminkhant.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=FFF" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Greeting
 
 I'm a Senior Fullstack Engineer with a strong technical consulting background and proven direct customer-facing experience. My expertise lies in building **multi-tenant eCommerce platforms** and crafting **exceptional user experiences** that balance business needs with technical excellence.
 
