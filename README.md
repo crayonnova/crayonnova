@@ -126,14 +126,3 @@ I'm a Senior Fullstack Engineer with a strong technical consulting background an
 > *"I build products that solve real problems. Currently seeking senior Fullstack engineering roles that value customer engagement, multi-tenant architecture, and engineers who can operate effectively between business stakeholders and technical execution."*
 
 ---
-
-## 🗂️ What's Next
-
-<p align="center">
-  <i>Projects, certifications, and blog posts will be added as I continue my journey.</i>
-</p>
-
-<!--
-  ─────────────────────────────────────────────────────────────────────
- :q
--->
