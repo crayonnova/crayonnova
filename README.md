@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="https://kaungminkhant.me">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/website.svg" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=globe&logoColor=FFF" alt="Website" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kaung-min-khant/">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/linkedin.svg" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFF" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/crayonnova7">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/x.svg" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=FFF" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/crayonnova">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/github.svg" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFF" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="mailto:kaungminkhant.dev@gmail.com">
-    <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/imgs/gmail.svg" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=FFF" alt="Email" />
   </a>
 </p>
 
