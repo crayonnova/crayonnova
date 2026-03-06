@@ -17,9 +17,6 @@
   <a href="https://x.com/crayonnova7">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=FFF" alt="X" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/crayonnova">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFF" alt="GitHub" />
-  </a>&nbsp;&nbsp;
   <a href="mailto:kaungminkhant.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF" alt="Email" />
   </a>
@@ -40,6 +37,27 @@ I'm a Senior Fullstack Engineer with a strong technical consulting background an
 🤝 **Customer-Centric** — I thrive working closely with customers to translate business needs into production-ready solutions. Strong communicator who bridges the gap between stakeholders and engineering.
 
 🔧 **Systems Thinking** — My hands-on experience with self-hosting (Linux, Jellyfin, Docker) reinforces a systems-oriented mindset focused on deployment, service management, and performance observation.
+
+---
+
+## Finding patterns within chaos
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/crayonnova/">
+          <img src="https://leetcard.jacoblin.cool/crayonnova?theme=dark&border=0" alt="LeetCode Stats" width="400" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.codewars.com/users/crayonnova">
+          <img src="https://github.r2v.ch/codewars?user=crayonnova&width=400" alt="Codewars Stats" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -106,27 +124,6 @@ I'm a Senior Fullstack Engineer with a strong technical consulting background an
 - **☁️ Cloud Infrastructure** — Managing deployments across AWS, Azure, and Cloudflare
 
 > *"I build products that solve real problems. Currently seeking senior Fullstack engineering roles that value customer engagement, multi-tenant architecture, and engineers who can operate effectively between business stakeholders and technical execution."*
-
----
-
-## 💻 Coding Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/u/crayonnova/">
-          <img src="https://leetcard.jacoblin.cool/crayonnova?theme=dark&border=0" alt="LeetCode Stats" width="400" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.codewars.com/users/crayonnova">
-          <img src="https://github.r2v.ch/codewars?user=crayonnova&width=400" alt="Codewars Stats" width="400" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
 
 ---
 
