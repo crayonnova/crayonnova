@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/neovim.svg" alt="NeoVim" />
-  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/typescript.svg" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/javascript.svg" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/nodejs.svg" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/nextjs.svg" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/nixos.svg" alt="NixOS" />
+  <img src="https://raw.githubusercontent.com/crayonnova/crayonnova/main/icons/pi5-banner.jpg" alt="Banner" />
 </p>
 
+<h1 align="center"><b>Kaung (Eddy) Min Khant</b></h1>
+
 <p align="center">
-  <b>Kaung Min Khant (Eddy)</b> · Fullstack Software Engineer (JS/TS/Cloud) | AI-Native | NixOS
+  Fullstack Software Engineer (JS/TS/Cloud) | AI-Native | NixOS
 </p>
 
 <p align="center">
@@ -124,8 +121,8 @@ I'm a Senior Fullstack Engineer with a strong technical consulting background an
         </a>
       </td>
       <td align="center">
-        <a href="https://www.codewars.com/users/Eddy_Dummy">
-          <img src="https://github.r2v.ch/codewars?user=Eddy_Dummy&width=400" alt="Codewars Stats" width="400" />
+        <a href="https://www.codewars.com/users/crayonnova">
+          <img src="https://github.r2v.ch/codewars?user=crayonnova&width=400" alt="Codewars Stats" width="400" />
         </a>
       </td>
     </tr>
