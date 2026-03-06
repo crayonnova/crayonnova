@@ -33,7 +33,7 @@
 
 ## 👋 About Me
 
-I'm a Senior Frontend Engineer with a strong technical consulting background and proven direct customer-facing experience. My expertise lies in building **multi-tenant eCommerce platforms** and crafting **exceptional user experiences** that balance business needs with technical excellence.
+I'm a Senior Fullstack Engineer with a strong technical consulting background and proven direct customer-facing experience. My expertise lies in building **multi-tenant eCommerce platforms** and crafting **exceptional user experiences** that balance business needs with technical excellence.
 
 ### What I Bring
 
@@ -52,6 +52,9 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 ### 💻 Languages & Frameworks
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FFF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FFF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=FFF" alt="SCSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFF" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=FFF" alt="Node.js" />
@@ -80,7 +83,7 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 <p>
   <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=FFF" alt="NeoVim" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFF" alt="VS Code" />
-  <img src="https://img.shields.io/badge/WezTerm-000000?style=flat&logoColor=FFF" alt="WezTerm" />
+  <img src="https://img.shields.io/badge/WezTerm-000000?style=flat&logo=wezterm&logoColor=FFF" alt="WezTerm" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=FFF" alt="PowerShell 7" />
   <img src="https://img.shields.io/badge/Zsh-000000?style=flat&logo=zsh&logoColor=FFF" alt="Zsh" />
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=FFF" alt="NixOS" />
@@ -89,22 +92,21 @@ I'm a Senior Frontend Engineer with a strong technical consulting background and
 ### ⚙️ Methodologies
 
 <p>
-  <img src="https://img.shields.io/badge/Agile%2FScrum-0078D4?style=flat&logoColor=FFF" alt="Agile/Scrum" />
-  <img src="https://img.shields.io/badge/TDD-C21325?style=flat&logo=jest&logoColor=FFF" alt="TDD" />
-  <img src="https://img.shields.io/badge/Extreme%20Programming-000000?style=flat&logoColor=FFF" alt="XP" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20AI-000000?style=flat&logoColor=FFF" alt="Multi-Agent AI" />
+  <img src="https://img.shields.io/badge/Agile%2FScrum-0078D4?style=flat&logo=azuredevops&logoColor=FFF" alt="Agile/Scrum" />
+  <img src="https://img.shields.io/badge/TDD-C21325?style=flat&logo=testcafe&logoColor=FFF" alt="TDD" />
+  <img src="https://img.shields.io/badge/Extreme%20Programming-000000?style=flat&logo=codewars&logoColor=FFF" alt="XP" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20AI-000000?style=flat&logo=bot&logoColor=FFF" alt="Multi-Agent AI" />
 </p>
 
 ---
 
 ## 🔭 Currently Working On
 
-- **🏠 Private Media Server** — Self-hosted Jellyfin deployment with automated video encoding pipeline (Linux, Docker, FFmpeg)
-- **🛒 E-Commerce Solutions** — Building scalable multi-tenant storefronts with modern JavaScript frameworks
+- **🏠 Private Media Server** — Self-hosted Jellyfin deployment with automated video encoding pipeline (NixOS, Docker, FFmpeg, Webtorrent)
 - **🤖 AI-Native Development** — Exploring multi-agent workflows and intelligent automation
 - **☁️ Cloud Infrastructure** — Managing deployments across AWS, Azure, and Cloudflare
 
-> *"I build products that solve real problems. Currently seeking senior frontend engineering roles that value customer engagement, multi-tenant architecture, and engineers who can operate effectively between business stakeholders and technical execution."*
+> *"I build products that solve real problems. Currently seeking senior Fullstack engineering roles that value customer engagement, multi-tenant architecture, and engineers who can operate effectively between business stakeholders and technical execution."*
 
 ---
 
